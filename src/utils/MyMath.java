@@ -1,7 +1,7 @@
 package utils;
 
 public class MyMath {
-    public static int round (int input){
+    /*public static int round (int input){
         int output;
         if (input>100000){
             while (input<999999){
@@ -11,5 +11,5 @@ public class MyMath {
         } if else (input<=100000){
             while (input<99999)
         }
-    }
+    }*/
 }
